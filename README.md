@@ -33,4 +33,6 @@ Here are some ideas to get you started:
   
 </div>
 
-![Euthacrazy GitHub stats](https://github-readme-stats.vercel.app/api?username=euthacrazy&show_icons=true&theme=tokyonight)
+##
+
+![Euthacrazy GitHub stats](https://github-readme-stats.vercel.app/api?username=euthacrazy&show_icons=true&theme=synthwave)
