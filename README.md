@@ -25,7 +25,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Thales-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
   <img align="center" alt="Thales-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Thales-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg">
- <img align="center" alt="Thales-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="filter: brightness(0) invert(1);">
+ <svg align="center" alt="Thales-Rust" height="30" width="40" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#ffffff" d="M64.002 7.004c-31.48 0-57 25.518-57 57 0 31.48 25.52 57 57 57 31.48 0 57-25.52 57-57 0-31.48-25.52-57-57-57zm0 10.338c25.751 0 46.663 20.912 46.663 46.662 0 25.751-20.912 46.664-46.663 46.664-25.75 0-46.662-20.913-46.662-46.664 0-25.75 20.912-46.662 46.662-46.662z"/>
+ 
+</svg>
  <img align="center" alt="Thales-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style="filter: brightness(0) invert(1);">
  <img align="center" alt="Thales-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
  <img align="center" alt="Thales-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
