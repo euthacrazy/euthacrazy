@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Thales-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Thales-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg">
   <img align="center" alt="Thales-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-  <img align="center" alt="Thales-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
+  <img align="center" alt="Thales-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
   <img align="center" alt="Thales-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="Thales-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
 
