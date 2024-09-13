@@ -1,15 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a30300&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a30300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thales+Henrique+Cardoso;I'm+27+years+old;I+am+from+Florianópolis,+SC;I+am+a+full+stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39d353&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thales+Henrique+Cardoso;I'm+27+years+old;I+am+from+Florianópolis,+SC;I+am+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euthacrazy&show_icons=true&count_private=true&hide_border=true&title_color=a30300&icon_color=a30300&text_color=c9d1d9&bg_color=0d1117" alt="Thales Henrique Cardoso github stats" /> 
-  <!--img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthacrazy&layout=compact&hide_border=true&title_color=a30300&text_color=00bfbf&bg_color=0d1117" />
-</div> Colocoraei aqui em breve-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euthacrazy&bg_color=000000&color=a30300&line=fc0303&point=a11f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
+ ##
 MAIN SKILLS
 <div style="display: inline_block"><br>
   <img align="center" alt="Thales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,7 +33,7 @@ SOCIAL NETWORK
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a30300&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=footer"/>
 
 
 
